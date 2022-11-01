@@ -1,0 +1,13 @@
+<?xml version="1.0"?>  
+<planilhas> 
+	 <!--Your comment-->
+	 <!-- Dados operações ativas -->-->
+    <OperaçõesAtivas>  
+        <urlBase>\Desktop\Planilhas\Operações Ativas</urlBase>  
+        <fileNameCRM>Operações</fileNameCRM>  
+        <fileNameMIS>MIS</fileNameMIS>
+        <fileRenameCRM>CRM.xlsx</fileRenameCRM>  
+        <fileRenameMIS>MIS.xlsx</fileRenameMIS>
+        <outputFile>\DeparaCRMvsMIS-Output.xls</outputFile>   
+    </OperaçõesAtivas>   
+</planilhas>
