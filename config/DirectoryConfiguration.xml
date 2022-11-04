@@ -4,7 +4,7 @@
 	 <!-- Dados operações ativas -->-->
     <OperaçõesAtivas>  
         <urlBase>\Desktop\Planilhas\Operações Ativas</urlBase>  
-        <fileNameCRM>Operações</fileNameCRM>  
+        <fileNameCRM>Operação</fileNameCRM>  
         <fileNameMIS>MIS</fileNameMIS>
         <fileRenameCRM>CRM.xlsx</fileRenameCRM>  
         <fileRenameMIS>MIS.xlsx</fileRenameMIS>
